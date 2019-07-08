@@ -27,3 +27,9 @@ Finish lesson 2
 
 - Watch video: [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 - Start lesson 3
+
+## Day 6:
+
+- Watch 8 videos of lesson 3
+- Start notebook Section 1 - Differential Privacy
+
