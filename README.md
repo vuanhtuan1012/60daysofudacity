@@ -33,3 +33,7 @@ Finish lesson 2
 - Watch 8 videos of lesson 3
 - Start notebook Section 1 - Differential Privacy
 
+## Day 7:
+
+- Revised lesson 3
+- Do Section 1 - Diferential Privacy, Project: Generate Parallel Databases
