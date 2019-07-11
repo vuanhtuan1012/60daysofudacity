@@ -42,3 +42,8 @@ Finish lesson 2
 
 - Watch videos in Week 1 of course [Natural Language Processing](https://www.coursera.org/learn/language-processing)
 - Discover [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+
+## Day 9:
+
+- Finish lesson 4
+- Complete projects of lesson 3 and 4
