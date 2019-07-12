@@ -47,3 +47,8 @@ Finish lesson 2
 
 - Finish lesson 4
 - Complete projects of lesson 3 and 4
+
+## Day 10:
+
+- Finish the first five videos of lesson 5
+- Start the project Local Differential Privacy
