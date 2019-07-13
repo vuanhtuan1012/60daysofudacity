@@ -52,3 +52,9 @@ Finish lesson 2
 
 - Finish the first five videos of lesson 5
 - Start the project Local Differential Privacy
+
+## Day 11:
+
+- Read a great paper about word2vec "word2vec: Parameter Learning Explained"
+- Watch the representation of the author at https://www.youtube.com/watch?v=D-ekE-Wlcds
+- Try the demo at https://ronxin.github.io/wevi/
