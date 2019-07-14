@@ -58,3 +58,8 @@ Finish lesson 2
 - Read a great paper about word2vec "word2vec: Parameter Learning Explained"
 - Watch the representation of the author at https://www.youtube.com/watch?v=D-ekE-Wlcds
 - Try the demo at https://ronxin.github.io/wevi/
+
+## Day 12:
+
+- Finish 6 first videos of lesson 5
+- Finish 2 projects: Local Differential Privacy, Varying Amounts of Noise
