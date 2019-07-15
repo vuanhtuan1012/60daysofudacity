@@ -63,3 +63,8 @@ Finish lesson 2
 
 - Finish 6 first videos of lesson 5
 - Finish 2 projects: Local Differential Privacy, Varying Amounts of Noise
+
+## Day 13:
+
+- Watch videos 17 to 27 of lesson 2.
+- Finish lesson 2.
