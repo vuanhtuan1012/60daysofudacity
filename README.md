@@ -68,3 +68,8 @@ Finish lesson 2
 
 - Watch videos 17 to 27 of lesson 2.
 - Finish lesson 2.
+
+## Day 14:
+
+- Finish project Create a Differentially Private Query.
+- Finish lesson 5.
