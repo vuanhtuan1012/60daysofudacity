@@ -76,5 +76,10 @@ Finish lesson 2
 
 ## Day 15:
 
-- Finish the first 4 vidoes of lesson 6.
-- Start Lesson: Differential Privacy for Deep Learning
+- Finish the first 4 videos of lesson 6.
+- Start Lesson: Differential Privacy for Deep Learning.
+
+## Day 16:
+
+- Finish the last 4 videos of lesson 6.
+- Start Section Project.
