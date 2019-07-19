@@ -83,3 +83,8 @@ Finish lesson 2
 
 - Finish the last 4 videos of lesson 6.
 - Start Section Project.
+
+## Day 17:
+
+- Revise Diferential Privacy.
+- Continue Section Project.
