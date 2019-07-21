@@ -93,3 +93,8 @@ Finish lesson 2
 
 - Finish the 5 first videos of Lesson 7.
 - Revise Diferential Privacy.
+
+## Day 19:
+
+- Revise Diferential Privacy.
+- Continue Section Project of lesson 6.
