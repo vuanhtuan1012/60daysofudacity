@@ -98,3 +98,8 @@ Finish lesson 2
 
 - Revise Diferential Privacy.
 - Continue Section Project of lesson 6.
+
+## Day 20:
+
+- Revise Transfer Learning.
+- Continue Section Project of lesson 6.
