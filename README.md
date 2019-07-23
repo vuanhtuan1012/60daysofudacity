@@ -103,3 +103,7 @@ Finish lesson 2
 
 - Revise Transfer Learning.
 - Continue Section Project of lesson 6.
+
+## Day 21:
+
+- Revise Differential Privacy.
