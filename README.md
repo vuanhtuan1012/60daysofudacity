@@ -107,3 +107,7 @@ Finish lesson 2
 ## Day 21:
 
 - Revise Differential Privacy.
+
+## Day 22:
+
+- Continue Section Project of lesson 6.
