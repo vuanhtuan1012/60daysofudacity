@@ -111,3 +111,7 @@ Finish lesson 2
 ## Day 22:
 
 - Continue Section Project of lesson 6.
+
+## Day 23:
+
+- Continue Section Project of lesson 6.
