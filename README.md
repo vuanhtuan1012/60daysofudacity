@@ -115,3 +115,7 @@ Finish lesson 2
 ## Day 23:
 
 - Continue Section Project of lesson 6.
+
+## Day 24:
+
+- Revise Differential Privacy.
