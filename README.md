@@ -119,3 +119,7 @@ Finish lesson 2
 ## Day 24:
 
 - Revise Differential Privacy.
+
+## Day 25:
+
+- Continue Section Project of lesson 6.
