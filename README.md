@@ -123,3 +123,7 @@ Finish lesson 2
 ## Day 25:
 
 - Continue Section Project of lesson 6.
+
+## Day 26:
+
+- Continue Section Project of lesson 6.
