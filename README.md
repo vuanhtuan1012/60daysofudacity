@@ -127,3 +127,7 @@ Finish lesson 2
 ## Day 26:
 
 - Continue Section Project of lesson 6.
+
+## Day 28:
+
+- Finish the first 9 videos of lesson 7.
