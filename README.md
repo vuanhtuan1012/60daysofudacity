@@ -131,3 +131,8 @@ Finish lesson 2
 ## Day 28:
 
 - Finish the first 9 videos of lesson 7.
+
+## Day 29:
+
+- Finish all videos of lesson 7.
+- Start Final Project.
