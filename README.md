@@ -136,3 +136,7 @@ Finish lesson 2
 
 - Finish all videos of lesson 7.
 - Start Final Project.
+
+## Day 30:
+
+- Continue Final Project of lesson 7.
