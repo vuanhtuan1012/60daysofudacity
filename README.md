@@ -140,3 +140,7 @@ Finish lesson 2
 ## Day 30:
 
 - Continue Final Project of lesson 7.
+
+## Day 32:
+
+- Continue Final Project of lesson 7.
