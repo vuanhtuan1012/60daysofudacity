@@ -144,3 +144,8 @@ Finish lesson 2
 ## Day 32:
 
 - Continue Final Project of lesson 7.
+
+## Day 33:
+
+- Revise lesson 7.
+- Continue Final Project of lesson 7.
