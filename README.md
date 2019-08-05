@@ -149,3 +149,7 @@ Finish lesson 2
 
 - Revise lesson 7.
 - Continue Final Project of lesson 7.
+
+## Day 34:
+
+- Continue Final Project of lesson 7.
